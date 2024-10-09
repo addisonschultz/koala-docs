@@ -1,17 +1,14 @@
-# Koala Documentation
+---
+title: "What is Koala?"
+description: "A brief introduction to the Koala platform."
+---
 
-The content and configuration powering the documentation available at [getkoala.com/docs](https://getkoala.com/docs)
+Koala is a customer intent platform. It is the best way to surface real-time intent signals and alert your sales team about prospects/customers showing buying intent. 
 
-### 👩‍💻 Development
+We use first-party website data to cover the entire spectrum of intent happening across your marketing site, blog, technical docs, application, and any other sites where intent might be happening, so that your GTM team can respond to buying intent in real-time with genuinely helpful messages. You can visualize it as follows:
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+<img src="/images/get-started/what-is-koala/intent-spectrum-final.png" />
 
-```
-npm i mintlify -g
-```
+If the user has ever provided an email address (via marketing form, sign up, login, or identified analytics traffic), we'll use that to identify the user. If no email has been provided, we partner with Clearbit Reveal to detect the company from their IP and will display as an anonymous visitor from the company instead.
 
-Run the following command at the root of your documentation (where mint.json is)
-
-```
-mintlify dev
-```
+Once your data is instrumented, your team will be able to set up intent signals, send them in real-time to Slack, and start driving revenue!
