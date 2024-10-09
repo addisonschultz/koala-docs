@@ -69,7 +69,7 @@
 * [Census](integrations/census.md)
 * [Clearbit](integrations/clearbit.md)
 * [G2](integrations/g2.md)
-* [Installation](integrations/gitbook.md)
+* [GitBook](integrations/gitbook.md)
 * [Google Tag Manager](integrations/google-tag-manager.md)
 * [Hightouch](integrations/hightouch.md)
 * [HubSpot](integrations/hubspot.md)
